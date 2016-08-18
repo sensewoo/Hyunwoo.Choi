@@ -26,6 +26,8 @@
 	<h4>
 		jvmRoute Name :
 		<%=instanceID%>
+		<br>Node name :
+		<%= System.getProperty("jboss.node.name") %>
 		<br>Make Session Time :
 		<%=makeSessionTime%>
 		<br>Session Interval :
