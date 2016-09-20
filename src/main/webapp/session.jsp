@@ -22,7 +22,7 @@
 	<a href="jarCheck">JAR Check</a>
 	<br>
 	<b>Current Time : <%=date%></b>
-	<h1>[Session Tracking Test]</h1>
+	<h1>[LDCC Session Tracking Test]</h1>
 	<h4>
 		jvmRoute Name :
 		<%=instanceID%>
