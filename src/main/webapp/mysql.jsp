@@ -25,7 +25,7 @@
 			rs = stmt.executeQuery(query);
 
 			out.println("<table border='1' width='1000'>");
-			out.println("<tr><td>ID</td><td>NAME</td><td>E-MAIL</td><td>TEL</td><td>ADDR</td></tr>");
+			out.println("<tr><td>ID</td><td>NAME</td><td>E-MAIL</td><td>TEL</td><td>address</td></tr>");
 			while (rs.next()) {
 				out.println("<tr>");
 				out.println("<td>" + rs.getString("MBER_ID") + "</td>");
