@@ -17,7 +17,7 @@
 <body>
 	<img src="./img/penta.jpg" width="512">
 	<br>
-	<a href="session">Session</a>&nbsp;|&nbsp;
+	<a href="session">Session_TEST</a>&nbsp;|&nbsp;
 	<a href="status">Status</a>&nbsp;|&nbsp;
 	<a href="jarCheck">JAR Check</a>
 	<br>
