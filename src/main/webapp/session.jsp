@@ -12,12 +12,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>##### Penta Test Application #####</title>
+<title>##### PentaLink Test Application #####</title>
 </head>
 <body>
 	<img src="./img/penta.jpg" width="512">
 	<br>
-	<a href="session">Session_TEST</a>&nbsp;|&nbsp;
+	<a href="session">Session_111</a>&nbsp;|&nbsp;
 	<a href="status">Status</a>&nbsp;|&nbsp;
 	<a href="jarCheck">JAR Check</a>
 	<br>

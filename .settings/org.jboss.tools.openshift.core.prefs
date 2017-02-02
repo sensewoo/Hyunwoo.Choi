@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.Connection=https\://sensewoo@console.preview.openshift.com
+org.jboss.tools.openshift.DeployProject=jbosseap0001
+org.jboss.tools.openshift.PodPath=
+org.jboss.tools.openshift.Service=sensewoo@jbosseap7
+org.jboss.tools.openshift.SourcePath=${workspace_loc\:/jbosseap0001}
