@@ -12,7 +12,7 @@
 <title>##### Hyunwoo.Choi Test Application #####</title>
 </head>
 <body>
-	<img src="./img/penta.jpg" width="512">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Hyundai_card_CI_new.png">
 	<br>
 	<a href="session">Session</a>&nbsp;|&nbsp;
 	<a href="status">Status</a>&nbsp;|&nbsp;
